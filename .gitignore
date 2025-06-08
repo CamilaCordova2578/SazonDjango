@@ -1,0 +1,27 @@
+# Directorios del entorno virtual
+env/
+venv/
+.venv/
+
+# Archivos de base de datos SQLite
+*.sqlite3
+db.sqlite3
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Directorios de archivos estáticos y de medios generados
+staticfiles/
+media/
+
+# Archivos de configuración sensible (ej. si usas .env)
+.env
+
+# Archivos de IDEs (ejemplos)
+.vscode/
+.idea/
+
+# Directorios de logs
+*.log
+logs/
