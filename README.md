@@ -1,3 +1,4 @@
 # SazonDjango
 **Cordova Vasquez Camila Ayelen <br>**
 **Arteaga Gabriel Gary Ariel** 
+**Jimenez Callizaya Gabriel Ulises <br>**
